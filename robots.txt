@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin
+Disallow: /asset
+Disallow: /common
+Disallow: /wp
+Disallow: /_HISTORY
+Disallow: /.git
+Disallow: /_JKSOFTLAB
+Allow: /
+
+# Sitemap: http://www.example.com/sitemap.xml

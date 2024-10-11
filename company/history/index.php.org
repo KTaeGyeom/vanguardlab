@@ -1,0 +1,120 @@
+<?php include_once "../../common/config.php"; ?>
+<?php include_once "../../common/pageHeader.php"; ?>
+
+  <main id="main">
+
+    <!-- Breadcrumbs -->
+    <section class="breadcrumbs">
+      <div class="container">
+        <div class="d-flex">
+          <h2>History</h2>
+          <!-- <ol>
+            <li><a id="change-mode" onclick="toggleFunction()" href="#" title="Change View Mode"><i id="change-class" class="bi bi-table"></i></a></li>
+          </ol> -->
+        </div>
+      </div>
+    </section>
+    <!-- End Breadcrumbs -->
+
+    <section class="inner-page">
+
+      <div class="container">
+
+        <!-- Gallery mode Section -->
+        <section id="gallery-mode" class="general">
+
+          <!-- <div class="section-title">
+            <h2>주요연혁</h2>
+          </div> -->
+
+          <ul class="timeline">
+            <li data-aos="fade-up" data-aos-delay="100">
+                <div class="timeline-image"><img class="rounded-circle img-fluid" src="img/img_timeline04.jpg" alt="..." /></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                        <h4>2023-2024</h4>
+                        <!-- <h4 class="subheading">An Agency is Born</h4> -->
+                    </div>
+                    <div class="timeline-body">
+                    <p class="text-muted">2024.07. Mendix Tier2 파트너 선정​</p>
+                    <p class="text-muted">2023.08. 수협 IT개발 협력사 선정​</p>
+                    <p class="text-muted">2023.05. 농협정보시스템 협력사 선정</p>
+                    </div>
+                </div>
+            </li>
+            <li class="timeline-inverted" data-aos="fade-up" data-aos-delay="200">
+                <div class="timeline-image"><img class="rounded-circle img-fluid" src="img/img_timeline03.jpg" alt="" /></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                        <h4>2021-2022</h4>
+                        <!-- <h4 class="subheading">An Agency is Born</h4> -->
+                    </div>
+                    <div class="timeline-body">
+                      <p class="text-muted">2021.05. LG CNS PerfecTwin 파트너 등록</p>
+                      <!-- <p class="text-muted">2021.02. 나라장터 경쟁입찰참가자격 획득</p> -->
+                      <p class="text-muted">2021.01. 한국소프트웨어산업협회 소프트웨어사업자 등록</p>
+                      <p class="text-muted">2022.09. IBM 협력사 선정</p>
+                      <p class="text-muted">2022.03. 멀티 세션 여신 거래 특허 등록</p>
+                      <p class="text-muted">2022.03. 여신거래 시스템/장치/단말기 관련 특허 등록</p>
+                      <p class="text-muted">2022.02. 저작권 등록 (vMARK-F)</p>
+                    </div>
+                </div>
+            </li>
+            <li data-aos="fade-up" data-aos-delay="300">
+                <div class="timeline-image"><img class="rounded-circle img-fluid" src="img/img_timeline02.jpg" alt="" /></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                        <h4>2019-2020</h4>
+                        <!-- <h4 class="subheading">Transition to Full Service</h4> -->
+                    </div>
+                    <div class="timeline-body">
+                      <p class="text-muted">2019.11. 저작권 등록 (GRS-Extract)</p>
+                      <!-- <p class="text-muted">2019.08. NICE 기술평가 우수기업</p> -->
+                      <p class="text-muted">2019.08. 벤처기업 인증</p>
+                      <p class="text-muted">2019.07. 기업부설연구소 인증</p>
+                      <p class="text-muted">2019.01. UiPath RPA 파트너 등록</p>
+                      <p class="text-muted">2020.10. Microsoft Silver Partner 획득</p>
+                      <!-- <p class="text-muted">2020.06. 인젠트 eXperDB 파트너 등록</p> -->
+                      <p class="text-muted">2020.06. 비아이매트릭스 파트너 등록</p>
+                      <p class="text-muted">2020.03. 저작권 등록 (GRS-Model)</p>
+                      <p class="text-muted">2020.03. 저작권 등록 (GRS-Report)</p>
+                    </div>
+                </div>
+            </li>
+            <li class="timeline-inverted" data-aos="fade-up" data-aos-delay="400">
+                <div class="timeline-image"><img class="rounded-circle img-fluid" src="img/img_timeline01.jpg" alt="" /></div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                        <h4>2017-2018</h4>
+                        <!-- <h4 class="subheading">Phase Two Expansion</h4> -->
+                    </div>
+                    <div class="timeline-body">
+                      <p class="text-muted">2018.05 Microsoft CSP 파트너 등록</p>
+                      <p class="text-muted">2017.10 ㈜뱅가드랩 설립</p>
+                    </div>
+                </div>
+            </li>
+            <!-- <li class="timeline-inverted" data-aos="fade-up" data-aos-delay="700">>
+                <div class="timeline-image">
+                    <h4>
+                        Be Part
+                        <br />
+                        Of Our
+                        <br />
+                        Story!
+                    </h4>
+                </div>
+            </li> -->
+          </ul>
+
+        </section>
+        <!-- Gallery mode Section -->
+
+      </div>
+
+    </section>
+
+  </main>
+  <!-- End #main -->
+
+  <?php include_once "../../common/pageFooter.php"; ?>

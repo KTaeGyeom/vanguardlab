@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MenuRoot>
+  
+ <Menu id="solutions" text="Solution" url="#">
+    <SubMenu id="grs" text="Smart Global Report" url="grs/"></SubMenu>
+    <SubMenu id="smartreport" text="Smart Report" url="smartreport/"></SubMenu>
+    <!-- <SubMenu id="migration" text="Smart Migration" url="smartmigration/"></SubMenu> -->
+    
+  </Menu>
+  <Menu id="services" text="Service" url="#">
+    <SubMenu id="mendix" text="Mendix" url="mendix/"></SubMenu>
+    <SubMenu id="perfectwin" text="PerfecTwin" url="perfectwin/"></SubMenu>
+    <!-- <SubMenu id="banking" text="Banking" url="banking/"></SubMenu> -->
+    <SubMenu id="si" text="System Integration" url="si/"></SubMenu>
+  </Menu>
+  <Menu id="company" text="Company">
+    <SubMenu id="overview" text="Overview" url="company/"></SubMenu>
+    <SubMenu id="message" text="CEO Message" url="company/message/"></SubMenu>
+    <SubMenu id="references" text="References" url="references/" > </SubMenu>
+  </Menu>
+  <Menu id="contact" text="Contact" url="contact/" />
+  <Menu id="blog" text="Blog" url="https://vanguardlab.tistory.com" target="_new" />
+  
+
+  
+</MenuRoot>

@@ -1,0 +1,114 @@
+<svg 
+    viewBox="0 0 1040 720"
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" 
+    overflow="hidden"
+    >
+    <defs>
+        <image 
+            width="204" 
+            height="37" 
+            xlink:href="data:image/png;base64,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"
+            preserveAspectRatio="none"
+            id="logo">
+        </image>
+        <clipPath id="clip1">
+            <rect x="0" y="0" width="840259" height="152400"/>
+        </clipPath>
+    </defs>
+    <style type="text/css">
+        .biz-title {
+            font-weight: 700;
+            font-size: 24px;
+        }
+        .biz-text {
+            font-weight: 400;
+            font-size: 15px;
+        }
+        .inner-text {
+            fill: #ffffff;
+            font-weight: 700;
+            font-size: 17px;
+        }
+        .inner-subtext {
+            fill: #ffffff;
+            font-weight: 700;
+            font-size: 12px;
+        }
+        .color-1 {
+            fill: #69a9ff;
+        }
+        .color-2 {
+            fill: #005eb8;
+        }
+        .color-3 {
+            fill: #00338d;
+        }
+        .color-4 {
+            fill: #80aedc;
+        }
+        .color-5 {
+            fill: #4066aa;
+        }
+    </style>
+    <g>
+        <text class="biz-title color-1" transform="translate(471.69 110)">금융 부문</text>
+        <text class="biz-text" transform="translate(348.329 140)">• 기간계 코어뱅킹 시스템 구축, U2L 및 유지보수</text>
+        <text class="biz-text" transform="translate(348.329 160)">• 정보계 DW/Mart/BI 구축 및 유지보수</text>
+        <text class="biz-text" transform="translate(348.329 180)">• 비대면 채널 시스템 구축 및 유지보수</text>
+        <text class="biz-text" transform="translate(348.329 200)">• 단위업무시스템 구축 및 유지보수</text>
+
+        <text class="biz-title color-2" transform="translate(131.224 310)">솔루션 개발 및 연계</text>
+        <text class="biz-text" transform="translate(42.0313 340)">• 은행 대외보고서 시스템 (GRS)</text>
+        <text class="biz-text" transform="translate(42.0313 360)">• 캐피탈 대외보고서 시스템 (Smart Report)</text>
+        <text class="biz-text" transform="translate(42.0313 380)">• 실거래 기반 병행검증 자동화 수행</text>
+        <text class="biz-text" transform="translate(42.0313 400)">• U2L을 위한 레거시 프로그램 자동 변환</text>
+
+        <text class="biz-title color-3" font-size="24" transform="translate(187.306 510)">컨설팅 및 PMO</text>
+        <text class="biz-text" transform="translate(139.639 540)">• 대규모 프로젝트 PMO</text>
+        <text class="biz-text" transform="translate(139.639 560)">• IT 진단/ISP 컨설팅</text>
+        <text class="biz-text" transform="translate(139.639 580)">• 차세대 프로젝트 테스트 통합관리</text>
+
+        <text class="biz-title color-4" font-size="24" transform="translate(709.456 290)">로우코드 플랫폼</text>
+        <text class="biz-text" transform="translate(709.456 320)">• CEO 직할 Mendix 전담 사업팀 운영</text>
+        <text class="biz-text" transform="translate(709.456 340)">• 개발 및 플랫폼 전문인력 양성</text>
+        <text class="biz-text" transform="translate(709.456 360)">• Mendix 기반 시스템 구축 및 유지보수</text>
+
+        <text class="biz-title color-5" font-size="24" transform="translate(686.946 500)">제조/서비스 부문</text>
+        <text class="biz-text" transform="translate(686.946 530)">• ERP 구축 및 유지보수</text>
+        <text class="biz-text" transform="translate(686.946 550)">• ITO (Information Technology Outsourcing)</text>
+        <text class="biz-text" transform="translate(686.946 570)">• ACS (Advanced Customer Service)</text>
+
+        <path class="color-1" d="M516.725 216C552.242 216.014 587.754 226.771 618 248.398L573.688 381 409 252.889C440.684 228.281 478.707 215.985 516.725 216Z" fill-rule="evenodd"/> <!--금융-->
+            <text class="inner-text" transform="translate(497.456 264)">금융 부문</text>
+            <text class="inner-subtext" transform="translate(482.71 280)">(은행/카드/캐피탈)</text>
+
+        <path class="color-2" d="M406.504 256 513 340.53 349.523 461C320.21 387.52 343.624 303.604 406.504 256Z" fill-rule="evenodd"/> <!--솔루션-->
+            <text class="inner-text" transform="translate(375.936 351)">솔루션</text>
+            <text class="inner-text" transform="translate(384.189 372)">부문</text>
+
+        <path class="color-3" d="M459.277 385 519 572.976C446.196 574.168 380.78 530.051 354 463.088Z" fill-rule="evenodd"/> <!--컨설팅-->
+            <text class="inner-text" transform="translate(413.91 499)">컨설팅</text>
+            <text class="inner-text" transform="translate(417.576 520)">PMO</text>
+
+        <path class="color-4" d="M623.872 250C686.129 294.705 712.187 375.12 688.145 448.253L558 449Z" fill-rule="evenodd"/> <!--로우코드-->
+            <text class="inner-text" transform="translate(602.272 374)">로우코드</text>
+            <text class="inner-text" transform="translate(610.519 395)">플랫폼</text>
+
+        <path class="color-5" d="M517.023 572.822 523.16 572.958C522.854 572.996 522.548 572.998 522.242 573ZM688 452C664.642 523.262 598.793 571.773 524.087 572.916L486 453.152Z" fill-rule="evenodd"/> <!--제조-->
+            <text class="inner-text" transform="translate(534.53 499)">제조/서비스</text>
+            <text class="inner-text" transform="translate(563.196 520)">부문</text>
+
+        <path class="color-1" d="M596.17 311.659 607.708 276.152 631.113 303.385Z" fill-rule="evenodd"/> <!--금융화살-->
+        <path class="color-2" d="M461.503 300.306 432.406 276.912 466.175 264.702Z" fill-rule="evenodd"/> <!--솔루션화살-->
+        <path class="color-3" d="M405.146 429.642 374.015 450.251 372.648 414.368Z" fill-rule="evenodd"/> <!--컨설팅화살-->
+        <path class="color-4" d="M623 448 660 448 641.5 478Z" fill-rule="evenodd"/> <!--로우코드화살-->
+        <path class="color-5" d="M505.82 511.562 518.489 546.682 483.3 539.532Z" fill-rule="evenodd"/> <!--제조화살-->
+
+        <g transform="matrix(0.000104987 0 0 0.000104987 473 393)">
+            <g clip-path="url(#clip1)" transform="scale(1.00888 1)">
+                <use width="100%" height="100%" xlink:href="#logo" transform="scale(4118.92 4118.92)"></use>
+            </g>
+        </g>
+    </g>
+</svg>

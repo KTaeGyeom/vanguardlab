@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+
+    RewriteEngine on
+
+    # JKSOFTLAB
+    RewriteCond %{HTTP_HOST} ^(www.)?jksoftlab.com$
+    RewriteCond %{REQUEST_URI} !^/_JKSOFTLAB/
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ /_JKSOFTLAB/$1
+
+    RewriteCond %{HTTP_HOST} ^(www.)?jksoftlab.com$
+    RewriteRule ^(/)?$ _JKSOFTLAB/index.php [L]
+
+    # Hide php extension
+    RewriteCond %{REQUEST_FILENAME}\.php -f
+    RewriteRule ^(.*)$ /$1.php [L]
+
+</IfModule>
